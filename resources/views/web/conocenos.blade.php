@@ -339,7 +339,7 @@
           <div class="cnt-block equal-hight" style="height: 349px;">
             <figure><img src="{{ url('centro') }}/imagenes/directivos/Dr-AguilarRamosPedro.png" class="img-responsive" alt=""></figure>
 
-            <span style="font-size: 18px;"><br> Dr. Marco Velarde Méndez </span><br>
+            <span style="font-size: 18px;"><br> Dr. Aguilar Ramos Pedro </span><br>
             <small style="font-size:12px;">Ginecólogo Oncólogo</small>
 
 
